@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET_MVC", "Curso .NET MVC\NET_MVC.csproj", "{D415E39E-E21F-49F8-8D2E-AD0A9CE2726A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{A476846C-FBF0-475C-8F98-BB7E46B364DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D415E39E-E21F-49F8-8D2E-AD0A9CE2726A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D415E39E-E21F-49F8-8D2E-AD0A9CE2726A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D415E39E-E21F-49F8-8D2E-AD0A9CE2726A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D415E39E-E21F-49F8-8D2E-AD0A9CE2726A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A476846C-FBF0-475C-8F98-BB7E46B364DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A476846C-FBF0-475C-8F98-BB7E46B364DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A476846C-FBF0-475C-8F98-BB7E46B364DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A476846C-FBF0-475C-8F98-BB7E46B364DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E2155A-0A0D-4574-BFC8-A6E416B2FE99}
+	EndGlobalSection
+EndGlobal
